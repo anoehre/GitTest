@@ -10,4 +10,4 @@ Und nun der Konflikt im Master.
 Und nun der Konflikt im Master.
 Eine �nderung in der dev.
 
-Und nun mal was geändert ueber GitHub
+Und nun mal was geändert ueber GitHub und nochmal
